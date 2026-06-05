@@ -1,0 +1,61 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Flask
+instance/
+.webassets-cache
+
+# Environment Variables
+.env
+.env.*
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Uploaded Images
+uploads/
+static/uploads/
+
+# TensorFlow / Model Files (optional)
+*.h5
+*.keras
+*.ckpt
+
+# Test & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary Files
+*.tmp
+*.temp
+
+# SQLite Database
+*.db
+*.sqlite3
