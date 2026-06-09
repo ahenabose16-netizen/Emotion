@@ -42,10 +42,6 @@ Thumbs.db
 uploads/
 static/uploads/
 
-# TensorFlow / Model Files (optional)
-*.h5
-*.keras
-*.ckpt
 
 # Test & Coverage
 .pytest_cache/
